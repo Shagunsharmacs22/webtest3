@@ -1,0 +1,88 @@
+.nav{
+    background-image: url('./portimg.webp');
+    height: 550px;
+    width: 100%;
+    margin-top: none;
+}
+.hovr{
+    padding-top: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: none;
+
+}
+.hovr:hover{
+    background-color: white;
+    color: black;
+}
+.about{
+    text-align: center;
+    /* width: 80%; */
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.name{
+    text-align: left;
+    margin-left: 200px;
+}
+.shags{
+    margin-right: 500px;
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+}
+.side{
+    display: flex;
+    padding: 0px;
+    margin: 0%;
+}
+.text{
+    margin-right: 100px;
+}
+.last{
+    text-align: center;
+}
+.w3-container{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.final{
+    display: flex;
+    padding-left: 40px;
+    background-color: grey;
+    height: 50px;
+    color: white;
+}
+.krish{
+    margin-left: 250px;
+    
+}
+.sharma{
+    display: flex;
+    padding-left: 40px;
+    background-color: grey;
+    height: 50px;
+    color: white;
+}
+.kri{
+    margin-left: 220px;
+}
+.back{
+    width: 100%;
+    height: 400px;
+}
+.align{
+    text-align: center;
+}
+.images{
+    margin-left: 200px;
+    
+}
+.shagg{
+    width: 20%;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
